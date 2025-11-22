@@ -3,6 +3,7 @@
 
 [![Live Demo](https://img.shields.io/badge/View%20Live-Demo%20Site-brightgreen)](https://student-od.netlify.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A modern web application designed to simplify the On-Duty (OD) application process for students and faculty members in educational institutions. The system provides a seamless digital solution for managing OD requests, approvals, and tracking.
 
 🔗 **Live Demo:** [https://student-od.netlify.app/](https://student-od.netlify.app/)
