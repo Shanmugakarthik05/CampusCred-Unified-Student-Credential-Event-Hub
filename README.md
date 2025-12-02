@@ -46,7 +46,7 @@ A modern web application designed to simplify the On-Duty (OD) application proce
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Shanmugakarthik05/CampusCred-Unified-Student-Credential-Event-Hub.git
    cd student-od-application-system
    ```
 
